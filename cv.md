@@ -34,6 +34,14 @@ function createPhoneNumber(numbers){
 }
 ```
 
+## Work experience
+
+- InsalesThemes, 2018-present. HTML coder
+  - Development of templates for CMS Insales.
+  - Adding new features in template.
+  - Fix errors.
+  - Optimization of site loading speed.
+
 ## Education
 
 - College of Business and Law, Information technology software major.
