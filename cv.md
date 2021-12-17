@@ -25,3 +25,11 @@ I want to become front-end developer
 - Adobe Photoshop, Figma, Adobe Illustrator
 - Git, GitHub
 - VS code, JetBrains WebStorm, Sublime
+
+## Code examples
+
+```
+function createPhoneNumber(numbers){
+  return numbers.join('').replace(/(...)(...)(....)/, '($1) $2-$3');
+}
+```
