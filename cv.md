@@ -38,6 +38,12 @@ function createPhoneNumber(numbers){
 
 - College of Business and Law, Information technology software major.
 - **Courses:**
+
   - [Html Academy](https://htmlacademy.ru/)
   - [learnjavascript.ru](https://learn.javascript.ru/)
   - [FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/)
+
+  ## Language
+
+* Russian - native
+* English level - A2
