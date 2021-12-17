@@ -14,3 +14,14 @@
 ## About Me
 
 I want to become front-end developer
+
+## Skills
+
+- HTML,
+- CSS (Bootstrap, SCSS)
+- liquid,
+- JavaScript (Basic),
+- Jquery (Basic),
+- Adobe Photoshop, Figma, Adobe Illustrator
+- Git, GitHub
+- VS code, JetBrains WebStorm, Sublime
