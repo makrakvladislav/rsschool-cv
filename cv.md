@@ -19,7 +19,7 @@ I want to become front-end developer
 
 - HTML,
 - CSS (Bootstrap, SCSS)
-- liquid,
+- Template language liquid,
 - JavaScript (Basic),
 - Jquery (Basic),
 - Adobe Photoshop, Figma, Adobe Illustrator
