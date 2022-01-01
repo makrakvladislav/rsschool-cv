@@ -258,3 +258,28 @@ body {
   background-color: #222;
   color: #fff;
 }
+
+.education__item {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.education__item ul {
+  padding-left: 10px;
+}
+
+.education__item a {
+  display: inline-block;
+  padding: 5px 10px;
+  color: #222;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.education__item a:hover {
+  background-color: #222;
+  color: #fff;
+}
