@@ -309,3 +309,31 @@ body {
   border-top: 2px solid #828282;
   background-color: #c0d8de;
 }
+
+/* Media */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+  }
+
+  .main {
+    width: 100%;
+  }
+
+  .skills__item {
+    width: calc(100% / 1);
+  }
+
+  .language__item {
+    width: calc(100% / 1);
+  }
+
+  .experience__item .item__description p {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .experience__item .item__description img {
+    width: 100%;
+  }
+}
