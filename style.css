@@ -212,3 +212,49 @@ body {
   white-space: break-spaces;
   word-break: break-word;
 }
+
+.experience__item .item__title {
+  margin-bottom: 40px;
+  padding-bottom: 15px;
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 2px solid #c5c5c5;
+}
+
+.experience__item .item__description {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.experience__item .item__description p {
+  width: 50%;
+  margin: 0;
+}
+
+.experience__item .item__description img {
+  width: 50%;
+  transition: transform 0.3s;
+  border-radius: 5px;
+}
+
+.experience__item .item__description img:hover {
+  transform: scale(1.02);
+}
+
+.experience__item .item__link {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.experience__item .item__link .fab {
+  margin-right: 5px;
+}
+
+.experience__item .item__link:hover {
+  background-color: #222;
+  color: #fff;
+}
